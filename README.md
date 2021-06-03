@@ -1,1 +1,1 @@
-# electro-data-analysis
+# electricity-data-analysis
